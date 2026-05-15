@@ -1,4 +1,4 @@
-# 
+# smart isolated-margin trading bot Tool | auto-leverage + order-book-analysis is the best isolated-margin trading bot, featuring auto-leverage and order-book-analysis. Smart, fast,
 
 
 
